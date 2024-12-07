@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/flow_chain_backend"
+]
+resolver = "2"
